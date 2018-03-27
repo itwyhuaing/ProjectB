@@ -1,0 +1,3 @@
+[submodule "ProjectBDemo/M2"]
+	path = ProjectBDemo/M2
+	url = https://github.com/itwyhuaing/ModuleOne.git
